@@ -13,4 +13,5 @@ This repository contains projects developed during my AI/ML internship.
 - face_recognition
 
 ## Author
-Riya
+Riya Shukla
+23BCE11293
